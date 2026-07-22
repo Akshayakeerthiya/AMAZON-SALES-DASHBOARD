@@ -1,2 +1,3 @@
-# Amazon-sales-dashboard
+# AMAZON-SALES-DASHBOARD
+
 Interactive Amazon Sales Dashboard built using Power BI
