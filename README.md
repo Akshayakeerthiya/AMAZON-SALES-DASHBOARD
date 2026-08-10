@@ -44,4 +44,3 @@ The dashboard provides an interactive view of key business metrics and enables u
 - Analyzed average product ratings across categories.
 - Examined category-wise price distribution.
 - Used interactive filters to analyze products within different price ranges.
-
